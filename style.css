@@ -122,12 +122,11 @@ hr {
 
 @media screen and (orientation: portrait) {
     .container {
-        grid-template-columns: auto;
-        grid-template-rows: 25% 75%;
+        display: flex;
+        flex-direction: column;
         overflow-x: visible;
     }
     #navbar {
-        grid-row: 1;
         height: 400px;
         max-height: 25vh;
         width: 100%;
@@ -135,11 +134,9 @@ hr {
         border-bottom: solid 3px #838582;
         background-color: #f0dc3f;
         z-index: 1;
+        position: relative;
     }
     #main-doc {
-        grid-row: 2;
-        position: relative;
-        top: min(400px, 25vh);
         height: auto;
         overflow-y: auto;
     }
