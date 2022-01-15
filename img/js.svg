@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1010 1010" xmlns="http://www.w3.org/2000/svg" version="1.1" height="100%" width="100%" xml:space="preserve" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting value="true" key="WDRulersVisible"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting value="false" key="WDOutlineMode"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDIsolateActiveLayer" value="false"/>
+<vectornator:setting key="VNPencilOnly" value="false"/>
+<vectornator:setting value="true" key="VNSnapToGuides"/>
+<vectornator:setting key="UndoHistoryDisabled" value="false"/>
+<vectornator:setting key="WDUnits" value="Pixels"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting value="true" key="VNDimensionsVisible"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting key="WDSnapToGrid" value="true"/>
+<vectornator:setting value="false" key="WDSnapToPoints"/>
+</metadata>
+<defs/>
+<g id="Ebene 1" vectornator:layerName="Ebene 1">
+<path opacity="1" fill="#32342f" d="M941.524+5L68.5+5C33.4762+5+5+33.4762+5+68.5L5+941.5C5+976.524+33.4762+1005+68.5+1005L941.5+1005C976.524+1005+1005+976.524+1005+941.524L1005+68.5C1005+33.4762+976.524+5+941.524+5ZM552.619+771.238C552.619+866.429+496.81+909.762+415.333+909.762C341.714+909.762+288.571+860.405+266.905+814.524L341.738+769.214C356.19+794.833+378.167+814.524+409.762+814.524C439.976+814.524+457.381+802.714+457.381+756.762L457.381+457.381L552.619+457.381L552.619+771.238ZM759.214+909.762C674.833+909.762+626.905+867.214+600.238+814.524L671.667+766.905C691.143+798.69+712.309+829.143+757.119+829.143C794.762+829.143+814.524+810.333+814.524+784.333C814.524+753.19+794.095+742.143+752.667+724.024L729.952+714.286C664.405+686.357+620.833+651.357+620.833+577.405C620.833+509.262+672.738+457.405+753.881+457.405C811.643+457.405+853.167+477.5+883.095+530.143L812.357+575.571C796.786+547.643+779.976+536.643+753.881+536.643C727.262+536.643+710.405+553.524+710.405+575.571C710.405+602.833+727.286+613.857+766.262+630.738L788.976+640.476C866.19+673.548+909.762+707.286+909.762+783.167C909.762+864.952+845.5+909.762+759.214+909.762Z"/>
+</g>
+</svg>
