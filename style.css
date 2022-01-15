@@ -128,7 +128,7 @@ hr {
     }
     #navbar {
         grid-row: 1;
-        height: 25vh;
+        height: 25%;
         width: 100%;
         border-right: none;
         border-bottom: solid 3px #838582;
@@ -138,7 +138,7 @@ hr {
     #main-doc {
         grid-row: 2;
         position: relative;
-        top: 25vh;
+        top: 30%;
         height: 75vh;
         padding: 20px 0;
         overflow-y: auto;
