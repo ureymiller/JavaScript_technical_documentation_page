@@ -146,6 +146,7 @@ hr {
     }
     #navbar header {
         width: 100vw;
+        padding: 10px 0;
     }
     .main-section code {
        margin-bottom: 15px;
