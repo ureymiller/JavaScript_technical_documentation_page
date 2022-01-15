@@ -128,7 +128,8 @@ hr {
     }
     #navbar {
         grid-row: 1;
-        height: 25%;
+        height: 400px;
+        max-height: 25vh;
         width: 100%;
         border-right: none;
         border-bottom: solid 3px #838582;
@@ -138,9 +139,8 @@ hr {
     #main-doc {
         grid-row: 2;
         position: relative;
-        top: 30%;
-        height: 75vh;
-        padding: 20px 0;
+        top: min(400px, 25vh);
+        height: auto;
         overflow-y: auto;
     }
     section:target {
