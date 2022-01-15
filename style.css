@@ -29,19 +29,23 @@ body {
     position: fixed;
     width: calc(25vw - 3px);
     height: 8vw;
+    padding: max(20px, 5vw);
+    z-index: 0;
+    background-color: #f0dc3f;
+    display: flex;
+    justify-content: center;
+}
+.nav-header {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: min(1vw, 10px);
-    z-index: 0;
-    background-color: #f0dc3f;
 }
 .toppic {
     width: 4vw;
     min-width: 30px;
     height: auto;
-    margin: 1vw;
+    margin: max(1vw, 10px);
 }
 .toptitle {
     font-size: max(2vw, 20px);
@@ -147,7 +151,7 @@ hr {
     }
     #navbar header {
         width: 100vw;
-        padding: 10px 0;
+        display: flex;
     }
     .main-section code {
        margin-bottom: 15px;
